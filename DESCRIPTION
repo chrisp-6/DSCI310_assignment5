@@ -1,0 +1,13 @@
+Package: dsci310a5
+Title: Toy Package for DSCI310 Assignment 5 (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Christina", "Pan", , "cpan06@students.ubc.ca", role = c("aut", "cre"))
+Description: right now, it adds stuff.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
